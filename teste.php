@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "teste edição";
+echo "teste edição 2";
